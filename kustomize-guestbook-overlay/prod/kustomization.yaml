@@ -1,3 +1,4 @@
 resources:
   - ../base
+  - guestbook-ui-deployment.yaml
 namespace: guestbook-prod
