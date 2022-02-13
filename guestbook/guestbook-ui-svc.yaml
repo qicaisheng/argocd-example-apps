@@ -6,7 +6,7 @@ spec:
   type: NodePort
   ports:
   - port: 80
-    nodePort: 20081
+    nodePort: 30081
     targetPort: 80
   selector:
     app: guestbook-ui
